@@ -1,11 +1,11 @@
-Bankruptcy-Prediction
+# Bankruptcy-Prediction
 
-Mining the Polish Bankruptcy Data
+## Mining the Polish Bankruptcy Data
 
 Tags: Data Mining, Machine Learning, Data Visualization.
 
 Project presentation: slideshow
-Dataset: Polish Bankruptcy Dataset
+<b> Dataset: Polish Bankruptcy Dataset <b>
 
 Summary:
 
